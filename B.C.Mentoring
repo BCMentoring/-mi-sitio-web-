@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mentoría Espiritual para la Transformación Total</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Enlace a hoja de estilos externa -->
+  <script src="script.js" defer></script> <!-- Enlace a script externo -->
+</head>
+<body>
+  <header>
+    <h1>Mentoría Espiritual para la Transformación Total</h1>
+    <p>Guiando tu camino hacia el crecimiento y la transformación integral</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#introduccion">Introducción</a></li>
+      <li><a href="#espiritual">Enfoque Espiritual</a></li>
+      <li><a href="#fisico">Enfoque Físico</a></li>
+      <li><a href="#emocional">Enfoque Emocional</a></li>
+      <li><a href="#multidimensional">Enfoque Multidimensional</a></li>
+      <li><a href="#contacto">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="introduccion">
+      <h2>Introducción</h2>
+      <p>Bienvenido/a a nuestro programa de mentoría espiritual para la transformación total. En este proceso, te acompañaremos en tu viaje hacia un crecimiento integral en todas las áreas de tu vida.</p>
+    </section>
+
+    <section id="espiritual">
+      <h2>Enfoque Espiritual</h2>
+      <p>Nuestro enfoque espiritual se basa en el desarrollo de una conexión profunda contigo mismo/a y con el universo. A través de prácticas de meditación, reflexión y conexión con la naturaleza, explorarás tu propósito de vida y encontrarás la paz interior.</p>
+    </section>
+
+    <section id="fisico">
+      <h2>Enfoque Físico</h2>
+      <p>El enfoque físico de nuestra mentoría incluye actividades de ejercicio, nutrición balanceada y cuidado del cuerpo. Te ayudaremos a desarrollar hábitos saludables que fortalezcan tu cuerpo y aumenten tu vitalidad.</p>
+    </section>
+
+    <section id="emocional">
+      <h2>Enfoque Emocional</h2>
+      <p>La salud emocional es fundamental para tu bienestar integral. A través de técnicas de manejo del estrés, inteligencia emocional y terapia de conversación, explorarás tus emociones más profundas y aprenderás a gestionarlas de manera saludable.</p>
+    </section>
+
+    <section id="multidimensional">
+      <h2>Enfoque Multidimensional</h2>
+      <p>Entendemos que el ser humano es complejo y está influenciado por múltiples dimensiones. Por eso, nuestro enfoque multidimensional abarca aspectos como la herencia genética, la epigenética, la psicología prenatal y el entorno familiar. Trabajaremos en cada una de estas áreas para lograr una transformación total.</p>
+    </section>
+  </main>
+
+  <footer id="contacto">
+    <h2>Contacto</h2>
+    <p>¡Gracias por unirte a nuestro programa de mentoría espiritual! Si deseas más información o comenzar tu viaje hacia la transformación total, contáctanos a través de:</p>
+    <ul>
+      <li>Email: info@mentoríaespiritual.com</li>
+      <li>Teléfono: +1234567890</li>
+      <li>Síguenos en redes sociales:</li>
+      <ul>
+        <li>Facebook</li>
+        <li>Twitter</li>
+        <li>Instagram</li>
+      </ul>
+    </ul>
+  </footer>
+</body>
+</html>
